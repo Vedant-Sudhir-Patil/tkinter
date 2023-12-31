@@ -1,2 +1,2 @@
 # tkinter
-This python file consists of the code for entities in Tkinter I wrote while learning Tkinter.
+Collection of my Tkinter files and code
